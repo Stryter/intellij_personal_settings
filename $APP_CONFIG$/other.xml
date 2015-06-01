@@ -1,0 +1,98 @@
+<application>
+  <component name="ChangesBarApplicationComponent">
+    <watchForCollisions>true</watchForCollisions>
+    <showPopup>true</showPopup>
+    <addCommentEditor>true</addCommentEditor>
+    <addChangelistScope>false</addChangelistScope>
+    <expandChangelistScope>true</expandChangelistScope>
+    <closeFilesWhenSwitchingChangelist>false</closeFilesWhenSwitchingChangelist>
+    <openFilesWhenSwitchingChangelist>false</openFilesWhenSwitchingChangelist>
+    <openFilesInBackground>true</openFilesInBackground>
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="DebuggerSettings">
+    <option name="TRACING_FILTERS_ENABLED" value="true" />
+    <option name="FORCE_CLASSIC_VM" value="true" />
+    <option name="SKIP_SYNTHETIC_METHODS" value="true" />
+    <option name="SKIP_CLASSLOADERS" value="true" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAsk" />
+    <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
+    <filter>
+      <option name="PATTERN" value="com.sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="java.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="javax.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.omg.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="jdk.internal.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="junit.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.intellij.rt.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.yourkit.runtime.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+  </component>
+  <component name="RecentTaskRepositories">
+    <YouTrack shared="false" url="https://youtrack.ues.dev">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="defaultSearch" value="#{Personal Work Remaining} " />
+      <password>dfd8df99df9ddfcfdf9ddfdfdfdedfcbdf9edfdedfc2df9cdfd8dfdfdfde</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>jtrisler</username>
+    </YouTrack>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FIELD" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_VARIABLE" value="false" />
+  </component>
+  <component name="TeamCityHistory">
+    <option name="HISTORY" value="https://teamcity.ues.dev&amp;^%$#@jtrisler" />
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+</application>
