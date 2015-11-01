@@ -93,23 +93,12 @@
       <option name="useProxy" value="false" />
       <username>jtrisler</username>
     </YouTrack>
-    <YouTrack shared="false" url="https://crisisstudios.myjetbrains.com/youtrack">
-      <commitMessageFormat>{id} {summary}</commitMessageFormat>
-      <option name="defaultSearch" value="#{Current Personal Work} " />
-      <password>df85dfc5dfe8dfc0dfcfdff7dfeddf9fdfc4dfcddfcedfd1df9ddfefdff8</password>
-      <option name="loginAnonymously" value="false" />
-      <option name="preferredCloseTaskState" />
-      <option name="preferredOpenTaskState" />
-      <option name="shouldFormatCommitMessage" value="false" />
-      <option name="useHttpAuthentication" value="false" />
-      <option name="useProxy" value="false" />
-      <username>jtrisler</username>
-    </YouTrack>
   </component>
   <component name="RefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FIELD" value="false" />
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="false" />
     <option name="RENAME_SEARCH_FOR_TEXT_FOR_VARIABLE" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
   </component>
   <component name="TeamCityHistory">
     <option name="HISTORY" value="https://teamcity.ues.dev&amp;^%$#@jtrisler" />
