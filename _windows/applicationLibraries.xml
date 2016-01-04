@@ -1,0 +1,12 @@
+<application>
+  <component name="libraryTable">
+    <library name="jdk_current">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Development/Dev/Java/jdk_current" />
+      </SOURCES>
+      <jarDirectory url="file://C:/Development/Dev/Java/jdk_current" recursive="false" type="SOURCES" />
+    </library>
+  </component>
+</application>
