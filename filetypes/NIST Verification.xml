@@ -1,0 +1,18 @@
+<filetype binary="false" description="NIST Verification" name="NIST Verification">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="#" />
+      <option name="COMMENT_START" value="" />
+      <option name="COMMENT_END" value="" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_BRACKETS" value="true" />
+      <option name="LINE_COMMENT_AT_START" value="true" />
+    </options>
+    <keywords keywords="APR;ERRT;M;SRE" ignore_case="false" />
+  </highlighting>
+  <extensionMap>
+    <mapping pattern="uep-[a-z]{2}.txt" />
+    <mapping pattern="efts-[0-9]{3,4}.txt" />
+  </extensionMap>
+</filetype>
