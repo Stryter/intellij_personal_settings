@@ -2,17 +2,22 @@
   <highlighting>
     <options>
       <option name="LINE_COMMENT" value="#" />
-      <option name="COMMENT_START" value="" />
-      <option name="COMMENT_END" value="" />
+      <option name="COMMENT_START" value="&quot;" />
+      <option name="COMMENT_END" value="&quot;" />
       <option name="HEX_PREFIX" value="" />
       <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_BRACES" value="true" />
       <option name="HAS_BRACKETS" value="true" />
+      <option name="HAS_PARENS" value="true" />
       <option name="LINE_COMMENT_AT_START" value="true" />
     </options>
-    <keywords keywords="APR;ERRT;M;SRE" ignore_case="false" />
+    <keywords keywords="AMN;APN;APR;CAR;CARC;CNA;CNAC;CPDR;CPNC;CPNU;DEK;DEKC;DEU;DOCE;EMUF;ERRT;FANC;FAUF;FDL;FNCC;FNDR;FUFC;GII;LSS;M;MAP;MAPC;MPR;NFAP;NFDP;NFFC;NFUE;NFUF;NNDR;SRE;TFLU" ignore_case="false" />
+    <keywords2 keywords="FIELDS;TRANSACTIONS" />
+    <keywords3 keywords="and;date;desc;js_verify;len;long_desc;mmap;nam;omap;regex;sca" />
+    <keywords4 keywords="A;AN;ANS;AS;B1;B2;B4;N;NZ;S" />
   </highlighting>
   <extensionMap>
-    <mapping pattern="uep-[a-z]{2}.txt" />
-    <mapping pattern="efts-[0-9]{3,4}.txt" />
+    <mapping pattern="uep-*.txt" />
+    <mapping pattern="efts-*.txt" />
   </extensionMap>
 </filetype>
