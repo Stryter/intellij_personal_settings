@@ -11,8 +11,10 @@
       <option name="HAS_PARENS" value="true" />
       <option name="LINE_COMMENT_AT_START" value="true" />
     </options>
-    <keywords keywords="AMN;APN;APR;CAR;CARC;CNA;CNAC;CPDR;CPNC;CPNU;DEK;DEKC;DEU;DOCE;EMUF;ERRT;FANC;FAUF;FDL;FNCC;FNDR;FUFC;GII;LSS;M;MAP;MAPC;MPR;NFAP;NFDP;NFFC;NFUE;NFUF;NNDR;SRE;TFLU" ignore_case="false" />
-    <keywords2 keywords="FIELDS;TRANSACTIONS" />
+    <keywords keywords="AMN;APN;APR;CAR;CARC;CNA;CNAC;CPDR;CPNC;CPNU;DEK;DEKC;DEU;DOCE;EMUF;ERRT;FANC;FAUF;FDL;FNCC;FNDR;FUFC;GII;LSS;MAP;MAPC;MPR;NFAP;NFDP;NFFC;NFUE;NFUF;NNDR;SRE;TFLU" ignore_case="false">
+      <keyword name=";" />
+    </keywords>
+    <keywords2 keywords="FIELDS;M;O;TRANSACTIONS" />
     <keywords3 keywords="and;date;desc;js_verify;len;long_desc;mmap;nam;omap;regex;sca" />
     <keywords4 keywords="A;AN;ANS;AS;B1;B2;B4;N;NZ;S" />
   </highlighting>
