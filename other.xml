@@ -53,6 +53,7 @@
   </component>
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="EXTRACT_INTERFACE_JAVADOC" value="2" />
   </component>
   <component name="TeamCityHistory">
     <option name="HISTORY" value="https://teamcity.ues.dev&amp;^%$#@jtrisler" />
