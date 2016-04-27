@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'SecureRemoteCopyPaste'" />
-    <option name="defaultScopeName" value="Project 'SecureRemoteCopyPaste'" />
+    <option name="customScope" value="Directory 'D:\Workspaces\IntellijProjects\common'" />
+    <option name="defaultScopeName" value="Directory 'D:\Workspaces\IntellijProjects\common'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'SecureRemoteCopyPaste'" />
+    <option name="SEARCH_SCOPE" value="Directory 'D:\Workspaces\IntellijProjects\common'" />
   </component>
 </application>
