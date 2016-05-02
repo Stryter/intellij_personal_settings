@@ -51,6 +51,20 @@
     <option name="pathToSceneBuilder" value="D:/Dev/Java/JavaFX Scene Builder 2.0/JavaFX Scene Builder 2.0.exe" />
     <option name="myPathToSceneBuilder" value="D:/Dev/Java/JavaFX Scene Builder 2.0/JavaFX Scene Builder 2.0.exe" />
   </component>
+  <component name="RecentTaskRepositories">
+    <YouTrack shared="false" url="https://youtrack.ues.dev">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="defaultSearch" value="#{Personal Work Remaining}" />
+      <password>dfd8df99df9ddfcfdf9ddfdfdfdedfcbdf9edfdedfc2df9cdfd8dfdfdfde</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>jtrisler</username>
+    </YouTrack>
+  </component>
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
     <option name="EXTRACT_INTERFACE_JAVADOC" value="2" />
