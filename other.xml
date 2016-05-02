@@ -67,6 +67,7 @@
   </component>
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="TYPE_COOK_COOK_OBJECTS" value="true" />
     <option name="EXTRACT_INTERFACE_JAVADOC" value="2" />
   </component>
   <component name="TeamCityHistory">
