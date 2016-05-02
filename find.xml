@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory 'D:\Workspaces\IntellijProjects\common'" />
-    <option name="defaultScopeName" value="Directory 'D:\Workspaces\IntellijProjects\common'" />
+    <option name="customScope" value="File 'D:\Workspaces\IntellijProjects\appserver\src\main\java\com\morphotrust\ues\domain\enums\ProgramWorkstationVersionMap.java'" />
+    <option name="defaultScopeName" value="File 'D:\Workspaces\IntellijProjects\appserver\src\main\java\com\morphotrust\ues\domain\enums\ProgramWorkstationVersionMap.java'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory 'D:\Workspaces\IntellijProjects\common'" />
+    <option name="SEARCH_SCOPE" value="File 'D:\Workspaces\IntellijProjects\appserver\src\main\java\com\morphotrust\ues\domain\enums\ProgramWorkstationVersionMap.java'" />
   </component>
 </application>
