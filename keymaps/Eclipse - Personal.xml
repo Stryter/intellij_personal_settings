@@ -1,4 +1,7 @@
 <keymap version="1" name="Eclipse - Personal" parent="Eclipse">
+  <action id="ExtractInterface">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+  </action>
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="ctrl alt numpad3" />
   </action>
