@@ -26,8 +26,12 @@
           <option name="url" value="git@gitlab.com:Stryter/SecureRemoteCopyPaste.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.ues.dev:workstation/workstation.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Workspaces\IntellijProjects" />
+    <option name="cloneParentDir" value="D:\Workspaces\VisualStudioProjects\" />
   </component>
 </application>
