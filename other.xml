@@ -87,6 +87,7 @@
     <option name="EXTRACT_INTERFACE_JAVADOC" value="2" />
     <option name="EXTRACT_SUPERCLASS_JAVADOC" value="2" />
     <option name="TURN_REFS_TO_SUPER_PREVIEW_USAGES" value="true" />
+    <option name="PULL_UP_MEMBERS_JAVADOC" value="1" />
   </component>
   <component name="TeamCityHistory">
     <option name="HISTORY" value="https://teamcity.ues.dev&amp;^%$#@jtrisler" />
