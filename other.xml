@@ -85,6 +85,7 @@
     <option name="MOVE_PREVIEW_USAGES" value="false" />
     <option name="TYPE_COOK_COOK_OBJECTS" value="true" />
     <option name="EXTRACT_INTERFACE_JAVADOC" value="2" />
+    <option name="EXTRACT_SUPERCLASS_JAVADOC" value="2" />
     <option name="TURN_REFS_TO_SUPER_PREVIEW_USAGES" value="true" />
   </component>
   <component name="TeamCityHistory">
