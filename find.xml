@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="customScope" value="File '[enrollment-foundation] - ...\src\test\java\com\morphotrust\ues\services\NistIntegrationTest.java'" />
+    <option name="defaultScopeName" value="File '[enrollment-foundation] - ...\src\test\java\com\morphotrust\ues\services\NistIntegrationTest.java'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="File '[enrollment-foundation] - ...\src\test\java\com\morphotrust\ues\services\NistIntegrationTest.java'" />
   </component>
 </application>
