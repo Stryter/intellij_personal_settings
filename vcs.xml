@@ -58,6 +58,10 @@
           <option name="url" value="git@gitlab.tools.sys:appserver/retail.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.tools.sys:appserver/federal.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Workspaces\IntellijProjects" />
